@@ -38,20 +38,31 @@ Ao final do curso, o discente será capaz de:
 
 Os discentes serão avaliados por meio de duas provas e um projeto final. As provas abordarão o conteúdo ministrado durante as duas primeiras unidades. O projeto será realizado por toda a terceira unidade e será apresentado ao final para a turma.
 
-### Cronograma
+### Cronograma Geral
 
 - 06/03/2023: Apresentação da disciplina.
 - 08/03/2023: Introdução ao Aprendizado de Máquina.
 - 13/03 - 22/03/2023: Pré-processamento: análise, tratamento e transformação de dados.
-- 27/03 - 12/04/2023:	Aprendizado Supervisionado.
+- 27/03 - 12/04/2023: Aprendizado Supervisionado.
 - 17/04/2023: 1ª Avaliação.
-- 19/04 - 08/05/2023:	Aprendizado não-supervisionado.
-- 10/05 - 15/05/2023:	Comitês.
-- 17/05 - 22/05/2023:	Noções de Aprendizado Profundo.
+- 19/04 - 08/05/2023: Aprendizado não-supervisionado.
+- 10/05 - 15/05/2023: Comitês.
+- 17/05 - 22/05/2023: Noções de Aprendizado Profundo.
 - 24/05/2023: 2ª Avaliação.
-- 29/05 - 28/06/2023:	Acompanhamento de Projeto.
-- 03/07 - 10/07/2023:	Apresentações de Projeto.
-- 17/07/2023:	Reposição.
+- 29/05 - 28/06/2023: Acompanhamento de Projeto.
+- 03/07 - 10/07/2023: Apresentações de Projeto.
+- 17/07/2023: Reposição.
+
+### Execução do Cronograma
+
+- [x] 06/03: Apresentação da disciplina.
+- [x] 08/03: Introdução ao Aprendizado de Máquina.
+    - [Slides](https://docs.google.com/presentation/d/1O5ZMs15OMWT0iXnCC5170_5hL3S9jvGGouSNjvDs89w/edit?usp=sharing)
+- [x] 13/03: Conceitos iniciais.
+    - [Slides](https://docs.google.com/presentation/d/1NwvreBt0x75DXNRaXw46wGCIdyGCRh8nNRZ3DHwsamE/edit?usp=sharing)
+- [ ] 15/03: Caracterização, Exploração e Transformação de Dados
+    [Slides](https://docs.google.com/presentation/d/1R2QTdAkWWVaeU7JSUWSEhJ8C2fa1TO8tTZ_AG8n43Pw/edit?usp=sharing)
+- [ ] 20/03: Tratamento e Visualização de Dados
 
 ## Projeto
 ### Objetivo geral
@@ -81,6 +92,11 @@ Os resultados devem ser descritos e interpretados, considerando a comparação e
 Como ferramentas, a equipe pode utilizar uma das ferramentas vistas na disciplina ou utilizar qualquer outra que tenha domínio.
 
 O trabalho deve ser apresentado ao final da disciplina.
+
+#### Ideias para projetos
+- Determinar se discente vai evadir do curso.
+- Recomendação de disciplinas para matrícula.
+- Verificação de frequência em sala por reconhecimento facial. 
 
 ## Comunicação
 
