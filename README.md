@@ -55,13 +55,13 @@ Os discentes serão avaliados por meio de duas provas e um projeto final. As pro
 
 ### Execução do Cronograma
 
-- [x] 06/03: Apresentação da disciplina.
-- [x] 08/03: Introdução ao Aprendizado de Máquina.
+- [x] ~~06/03: Apresentação da disciplina.~~
+- [x] ~~08/03: Introdução ao Aprendizado de Máquina.~~
     - [Slides](https://docs.google.com/presentation/d/1O5ZMs15OMWT0iXnCC5170_5hL3S9jvGGouSNjvDs89w/edit?usp=sharing)
-- [x] 13/03: Conceitos iniciais.
+- [x] ~~13/03: Conceitos iniciais.~~
     - [Slides](https://docs.google.com/presentation/d/1NwvreBt0x75DXNRaXw46wGCIdyGCRh8nNRZ3DHwsamE/edit?usp=sharing)
 - [ ] 15/03: Caracterização, Exploração e Transformação de Dados
-    [Slides](https://docs.google.com/presentation/d/1R2QTdAkWWVaeU7JSUWSEhJ8C2fa1TO8tTZ_AG8n43Pw/edit?usp=sharing)
+    - [Slides](https://docs.google.com/presentation/d/1R2QTdAkWWVaeU7JSUWSEhJ8C2fa1TO8tTZ_AG8n43Pw/edit?usp=sharing)
 - [ ] 20/03: Tratamento e Visualização de Dados
 
 ## Projeto
